@@ -10,12 +10,10 @@ Questions to ask an engineering organization!
 
 * Walk me through the process of spinning up a new service.
   * Is there an architecture or design review process?
-  * How do I get hardware, cloud or otherwise?
+  * How do you requisition hardware, cloud or otherwise?
   * What's your approach to service discovery?
   * Monitoring and telemetry?
   * Suppose we realize it needs a DB or Kafka. Walk me through that process. Who would I talk to? Is it self-serve? Who is responsible for capacity planning? How does the rollout of that service work -- does the storage team help at all? How are DB migrations handled, reviewed, run, verified?
-
-* Do you ever have the situation where I'm working on service Foo, which depends on service Bar which is owned by another team? Where any degradations or outages Bar experiences will affect Foo. How does engineering approach this scenario? Is a third team (platform/SRE) involved? Are there frameworks or tools to deal with fault isolation? How about tracking such dependencies? How are outages discovered and communicated?
 
 * Tell me how your company might go about changing RPC frameworks. What team or teams might own such a project? Would other teams or developers be involved? How would such a project be communicated? How do you think it would be rolled out?
 
