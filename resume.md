@@ -1,35 +1,35 @@
 # Scott Merritt
 
-San Francisco Bay Area
-srmerritt88@gmail.com
-https://github.com/srm88
+San Francisco Bay Area | srmerritt88@gmail.com | https://github.com/srm88
 
 Swiss army knife backend engineer with 8 years experience.
+
 Ownership and experience throughout the backend stack and passion for the entire software lifecycle.
+
 Interested in reliability and making developers happier and more productive.
 
 # Work
 
-* Staff Software Engineer, Pandora; Dec 2015 - Present
+* **Staff Software Engineer**, Pandora; Dec 2015 - Present
   * Greenfield search system for on-demand music streaming application
   * Clojure, Elasticsearch, Python, Kafka, Consul
   * Design and prototype search indexing system
   * Clojure service development
   * Build tooling and advocate internally for SOA and CI/CD
 
-* Staff Software Engineer, Rdio; Feb 2014 - Dec 2015
+* **Staff Software Engineer**, Rdio; Feb 2014 - Dec 2015
   * Data products for on-demand music streaming application: Top Charts, Trending, User History, Heavy Rotation
   * Erlang, Cassandra, Hadoop/Hive, Kafka
   * Redesign and rebuild legacy system from the ground up
 
-* Senior Software Engineer, Rdio; Nov 2012 - Feb 2014
+* **Senior Software Engineer**, Rdio; Nov 2012 - Feb 2014
   * Data products for on-demand music streaming application: Top Charts, Trending, User History, Heavy Rotation
   * Erlang, Rabbitmq, Redis, Mysql, Riak
   * Contributor then lead on site-facing data service and stream processing backend in Erlang
   * Extensive operational work on sharded Redis cluster
   * Build tools to automate, monitor, and harden Redis operations
 
-* Software Engineer, Rdio; Jul 2010 - Nov 2012
+* **Software Engineer**, Rdio; Jul 2010 - Nov 2012
   * Backend engineering for consumer web application
   * Python, Django, Mysql, Uwsgi, Nginx
   * Redesign and transition payments data model without user impact
