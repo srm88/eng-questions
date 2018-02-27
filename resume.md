@@ -1,8 +1,8 @@
 # Scott Merritt
 
-San Francisco Bay Area | srmerritt88@gmail.com | https://github.com/srm88
+San Francisco Bay Area | srmerritt88@gmail.com
 
-Swiss army knife backend engineer with 8 years experience.
+Swiss army knife backend engineer with 8+ years experience.
 
 Ownership and experience throughout the backend stack and passion for the entire software lifecycle.
 
@@ -12,7 +12,7 @@ Interested in reliability and making developers happier and more productive.
 
 * **Staff Software Engineer**, Pandora; Dec 2015 - Present
   * Greenfield search system for on-demand music streaming application
-  * Clojure, Elasticsearch, Python, Kafka, Consul
+  * Clojure, Elasticsearch, Python, Kafka, Spark/Hive, Consul
   * Design and prototype search indexing system
   * Clojure service development
   * Build tooling and advocate internally for SOA and CI/CD
