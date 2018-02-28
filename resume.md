@@ -11,14 +11,14 @@ Interested in reliability and making developers happier and more productive.
 # Expertise
 
 * Design, build, maintain, and operate site-critical systems with latency and throughput requirements
-* Python, Erlang, Clojure, Go, Bash, Make
-* Collaborate with data scientists, data engineers, product managers, designers, and product engineers
 * Small teams with large responsibilities
-* 5+ years experience in on-call rotations for production web applications
+* Collaborate with data science, data platform, product/design, and product engineering
+* Python, Erlang, Clojure, Go, Bash, Make
+* Know my way around a Unix shell
+* 6+ years experience in on-call rotations for production web applications
 * Debug complicated issues in production
 * Capacity planning for services and underlying systems
 * Handle production with respect
-* Know my way around a Unix shell
 * Service accoutrements: build/deploy tools, discovery, monitoring, telemetry, dashboards, live debugging, profilers, flame graphs
 
 # Work
