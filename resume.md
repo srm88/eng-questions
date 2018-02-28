@@ -2,25 +2,37 @@
 
 San Francisco Bay Area | srmerritt88@gmail.com
 
-Swiss army knife backend engineer with 8+ years experience.
+Swiss army knife backend engineer with 8+ years experience in consumer web applications.
 
-Ownership and experience throughout the backend stack and passion for the entire software lifecycle.
+Ownership throughout the backend stack and passion for the entire software lifecycle.
 
 Interested in reliability and making developers happier and more productive.
+
+# Expertise
+
+* Design, build, maintain, and operate site-critical systems with latency and throughput requirements
+* Small teams with large responsibilities
+* Collaborate with data science, data platform, product/design, and product engineering
+* Python, Erlang, Clojure, Go, Bash, Make
+* Know my way around a Unix shell
+* Capacity planning for services and underlying systems
+* 6+ years experience in on-call rotations for production web applications
+* Debug complicated issues in production
+* Handle production with respect
+* Service tools: build, deploy, discovery, monitoring, telemetry, dashboards, live debugging, profilers, flame graphs
 
 # Work
 
 * **Staff Software Engineer**, Pandora; Dec 2015 - Present
   * Greenfield search system for on-demand music streaming application
   * Clojure, Elasticsearch, Python, Kafka, Spark/Hive, Consul
-  * Design and prototype search indexing system
-  * Clojure service development
+  * Design, build, and maintain indexing system and HTTP search service
   * Build tooling and advocate internally for SOA and CI/CD
 
 * **Staff Software Engineer**, Rdio; Feb 2014 - Dec 2015
   * Data products for on-demand music streaming application: Top Charts, Trending, User History, Heavy Rotation
   * Erlang, Cassandra, Hadoop/Hive, Kafka
-  * Redesign and rebuild legacy system from the ground up
+  * Redesign and rebuild legacy system from the ground up to reduce hardware and operational costs, improve reliability
 
 * **Senior Software Engineer**, Rdio; Nov 2012 - Feb 2014
   * Data products for on-demand music streaming application: Top Charts, Trending, User History, Heavy Rotation
@@ -36,14 +48,7 @@ Interested in reliability and making developers happier and more productive.
   * Rebuild subscription billing system and significantly expand test coverage
   * Point of contact and developer for partner billing integrations
 
-# Expertise
-
-* 5+ years experience in on-call rotations for production web applications
-* Python, Erlang, Clojure, Go, Bash, Make; ability to learn and master new languages
-* Generally pretty decent at linux tools
-* Service accoutrements: build/deploy tools, discovery, monitoring, telemetry, dashboards, live debugging, profilers, flame graphs
-
-# Things I have done and will continue doing
+# Things I have done and will continue to do
 
 * Diligent and empathetic code review
 * Improve build/deploy tools and human processes
