@@ -15,11 +15,11 @@ Interested in reliability and making developers happier and more productive.
 * Collaborate with data science, data platform, product/design, and product engineering
 * Python, Erlang, Clojure, Go, Bash, Make
 * Know my way around a Unix shell
+* Capacity planning for services and underlying systems
 * 6+ years experience in on-call rotations for production web applications
 * Debug complicated issues in production
-* Capacity planning for services and underlying systems
 * Handle production with respect
-* Service accoutrements: build/deploy tools, discovery, monitoring, telemetry, dashboards, live debugging, profilers, flame graphs
+* Service tools: build, deploy, discovery, monitoring, telemetry, dashboards, live debugging, profilers, flame graphs
 
 # Work
 
@@ -32,7 +32,7 @@ Interested in reliability and making developers happier and more productive.
 * **Staff Software Engineer**, Rdio; Feb 2014 - Dec 2015
   * Data products for on-demand music streaming application: Top Charts, Trending, User History, Heavy Rotation
   * Erlang, Cassandra, Hadoop/Hive, Kafka
-  * Redesign and rebuild legacy system from the ground up
+  * Redesign and rebuild legacy system from the ground up to reduce hardware and operational costs, improve reliability
 
 * **Senior Software Engineer**, Rdio; Nov 2012 - Feb 2014
   * Data products for on-demand music streaming application: Top Charts, Trending, User History, Heavy Rotation
