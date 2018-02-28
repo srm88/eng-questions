@@ -8,16 +8,13 @@ Ownership throughout the backend stack and passion for the entire software lifec
 
 Interested in reliability and making developers happier and more productive.
 
-# Experience
-
-* Design, build, maintain, and operate site-critical systems with latency and throughput requirements
-* 5+ years experience in on-call rotations for production web applications
-* Collaborate with data scientists, data engineers, product managers, designers, and product engineers
-* Small teams with large responsibilities
-
 # Expertise
 
-* Python, Erlang, Clojure, Go, Bash, Make; ability to learn and master new languages
+* Design, build, maintain, and operate site-critical systems with latency and throughput requirements
+* Python, Erlang, Clojure, Go, Bash, Make
+* Collaborate with data scientists, data engineers, product managers, designers, and product engineers
+* Small teams with large responsibilities
+* 5+ years experience in on-call rotations for production web applications
 * Debug complicated issues in production
 * Capacity planning for services and underlying systems
 * Handle production with respect
