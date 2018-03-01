@@ -25,6 +25,8 @@ Interested in reliability and making developers happier and more productive.
 
 * **Staff Software Engineer**, Pandora; Dec 2015 - Present
   * Greenfield search system for on-demand music streaming application
+    * Respond to query from Pandora's search box with most relevant artists, tracks, etc
+    * Handle misspellings, popularity-aware ranking, phrase queries, autocomplete, and more, addressing shortcomings of existing 'create station' search box
   * Clojure, Elasticsearch, Python, Kafka, Spark/Hive, Consul
   * Design, build, and maintain indexing system and HTTP search service
   * Build tooling and advocate internally for SOA and CI/CD
