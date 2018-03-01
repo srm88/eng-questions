@@ -12,7 +12,7 @@ Interested in reliability and making developers happier and more productive.
 
 * Design, build, maintain, and operate site-critical systems with latency and throughput requirements
 * Work in small teams with large responsibilities
-* API design
+* Design APIs
 * Collaborate with data science, data platform, product/design, and product engineering
 * Program comfortably in Python, Erlang, Clojure, Go, Bash, Make
 * Know my way around a Unix shell
