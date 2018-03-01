@@ -29,7 +29,7 @@ Interested in reliability and making developers happier and more productive.
   * Greenfield search system for on-demand music streaming application
   * Quickly return the most relevant artists, tracks, etc for a query from the Pandora search box
   * Handle misspellings, popularity-aware ranking, phrase queries, autocomplete, and more, addressing shortcomings of legacy search system
-  * ML model based approach, improvements verified with A/B testing
+  * ML model based approach, A/B test changes
   * HTTP search service in Clojure/JVM which makes heavy use of Elasticsearch
   * Collect and index catalog data from multiple internal systems via Kafka, evangelize Kafka internally
   * Build tooling and advocate internally for SOA and CI/CD
@@ -37,16 +37,16 @@ Interested in reliability and making developers happier and more productive.
 * **Staff Software Engineer**, Rdio; Feb 2014 - Dec 2015
   * Erlang, Cassandra, Hadoop/Hive, Kafka
   * Data products for on-demand music streaming application
-  * Compute and serve site-facing features from user listening data: top charts, trending albums, new releases, user play history, etc
+  * Compute and serve site-facing features from user listening data: top charts, trending albums, new releases, listening history, etc
   * Realtime stream processing as well as batch-computed (hadoop) data both written to Cassandra
   * REST HTTP service in Erlang serving data from Cassandra
   * Redesign and rebuild legacy system from the ground up to reduce hardware and operational costs, improve reliability
 
 * **Senior Software Engineer**, Rdio; Nov 2012 - Feb 2014
-  * Erlang, Rabbitmq, Redis, Mysql, Riak
+  * Erlang, Rabbitmq, Redis, Mysql, Riak, Thrift
   * Data products for on-demand music streaming application
   * Compute and serve site-facing features from user listening data: top charts, trending albums, etc
-  * Contributor then lead on site-facing data service and stream processing backend in Erlang
+  * Contributor then lead on API service and stream processing backend in Erlang
   * Extensive operational work on sharded Redis cluster
   * Build tools to automate, monitor, and harden Redis operations
 
