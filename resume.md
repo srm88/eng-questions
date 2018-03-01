@@ -12,6 +12,7 @@ Interested in reliability and making developers happier and more productive.
 
 * Design, build, maintain, and operate site-critical systems with latency and throughput requirements
 * Work in small teams with large responsibilities
+* API design
 * Collaborate with data science, data platform, product/design, and product engineering
 * Program comfortably in Python, Erlang, Clojure, Go, Bash, Make
 * Know my way around a Unix shell
@@ -24,21 +25,27 @@ Interested in reliability and making developers happier and more productive.
 # Work
 
 * **Staff Software Engineer**, Pandora; Dec 2015 - Present
-  * Greenfield search system for on-demand music streaming application
-    * Respond to query from Pandora's search box with most relevant artists, tracks, etc
-    * Handle misspellings, popularity-aware ranking, phrase queries, autocomplete, and more, addressing shortcomings of existing 'create station' search box
   * Clojure, Elasticsearch, Python, Kafka, Spark/Hive, Consul
-  * Design, build, and maintain indexing system and HTTP search service
+  * Greenfield search system for on-demand music streaming application
+  * Quickly return the most relevant artists, tracks, etc for a query from the Pandora search box
+  * Handle misspellings, popularity-aware ranking, phrase queries, autocomplete, and more, addressing shortcomings of legacy search system
+  * ML model based approach, improvements verified with A/B testing
+  * HTTP search service in Clojure/JVM which makes heavy use of Elasticsearch
+  * Collect and index catalog data from multiple internal systems via Kafka, evangelize Kafka internally
   * Build tooling and advocate internally for SOA and CI/CD
 
 * **Staff Software Engineer**, Rdio; Feb 2014 - Dec 2015
-  * Data products for on-demand music streaming application: Top Charts, Trending, User History, Heavy Rotation
   * Erlang, Cassandra, Hadoop/Hive, Kafka
+  * Data products for on-demand music streaming application
+  * Compute and serve site-facing features from user listening data: top charts, trending albums, new releases, user play history, etc
+  * Realtime stream processing as well as batch-computed (hadoop) data both written to Cassandra
+  * REST HTTP service in Erlang serving data from Cassandra
   * Redesign and rebuild legacy system from the ground up to reduce hardware and operational costs, improve reliability
 
 * **Senior Software Engineer**, Rdio; Nov 2012 - Feb 2014
-  * Data products for on-demand music streaming application: Top Charts, Trending, User History, Heavy Rotation
   * Erlang, Rabbitmq, Redis, Mysql, Riak
+  * Data products for on-demand music streaming application
+  * Compute and serve site-facing features from user listening data: top charts, trending albums, etc
   * Contributor then lead on site-facing data service and stream processing backend in Erlang
   * Extensive operational work on sharded Redis cluster
   * Build tools to automate, monitor, and harden Redis operations
